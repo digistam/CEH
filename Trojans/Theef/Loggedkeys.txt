@@ -1,0 +1,13 @@
+
+
+[Start Menu]
+c
+
+[New Text Document.txt - Notepad]
+yd
+
+[Administrator: C:\Windows\system32\cmd.exe]
+i
+
+[test.txt - Notepad]
+{ALT}vl
